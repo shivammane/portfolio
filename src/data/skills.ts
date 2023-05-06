@@ -1,4 +1,4 @@
-const folder = "/assets/img";
+const folder = "./assets/img";
 const skills = [
     { skill: "Python", src: `${folder}/python.svg` },
     { skill: "Java", src: `${folder}/java.svg` },
