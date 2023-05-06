@@ -8,7 +8,7 @@ function Projects() {
                 <h1>Personal</h1>
                 <h1 className="text-orange-400">Projects</h1>
             </div>
-            <div className="flex justify-between gap-4 my-4 py-4 overflow-x-scroll text-white">
+            <div className="flex justify-between gap-4 my-4 pb-4 overflow-x-scroll text-white">
                 {projects.map((project, id) => {
                     return (
                         <div key={id} className="h-96 min-w-[90%] md:min-w-[50%] lg:min-w-[30%] border rounded-lg overflow-hidden">
