@@ -1,9 +1,9 @@
 function Header() {
     return (
         <>
-            <div className="mb-8 mt-4 font-medium flex justify-between">
+            <div className="my-4 font-medium flex justify-between">
                 <div className="m-2 text-lg">PortFolio</div>
-                <div className="btn">Contact Me</div>
+                <div className="mr-2 btn">Contact Me</div>
             </div>
         </>
     );

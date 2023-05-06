@@ -1,3 +1,4 @@
+import Experience from "./Experience";
 import Intro from "./Intro";
 import Projects from "./Projects";
 import Skills from "./Skills";
@@ -5,9 +6,12 @@ import Skills from "./Skills";
 function HomeHome() {
     return (
         <>
-            <Intro />
-            <Skills />
-            <Projects />
+            <div className="space-y-8">
+                <Intro />
+                <Experience />
+                <Skills />
+                <Projects />
+            </div>
         </>
     );
 }
