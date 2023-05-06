@@ -4,7 +4,7 @@
 
 @layer base {
     .btn {
-        @apply p-2 cursor-pointer active:scale-90 transition-transform rounded-lg text-white font-medium shadow-lg shadow-orange-400 bg-[conic-gradient(at_bottom_left,_var(--tw-gradient-stops))] from-orange-400 via-yellow-500 to-neutral-100;
+        @apply p-2 cursor-pointer active:scale-90 transition-transform rounded-lg text-white font-medium shadow-lg shadow-purple-900 bg-purple-900;
     }
 
     .primary-color {
@@ -22,7 +22,7 @@
 /* Chrome, Edge and Safari */
 *::-webkit-scrollbar {
     width: 7px;
-    width: 7px;
+    height: 2px;
 }
 *::-webkit-scrollbar-track {
     border-radius: 0px;
