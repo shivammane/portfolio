@@ -31,7 +31,7 @@ function Projects() {
                                         <h2 className="text-2xl font-bold text-center">{project.name}</h2>
                                     </div>
                                     <div className="text-black font-medium overflow-y-scroll shadow-none h-[70%] bg-white text-justify p-4 bg-opacity-0">
-                                        {project.summary}
+                                        <img src={project.img} alt="" />
                                     </div>
                                     <Link to={project.link}>
                                         <div className="text-center rounded-t-none btn">see details</div>

@@ -1,6 +1,8 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import roles from "../data/roles";
+
 function Intro() {
     return (
         <>
@@ -15,6 +17,16 @@ function Intro() {
                         facere nihil molestias a aperiam, at dicta labore architecto iste soluta, ullam vero. nostrum magni, minus velit facere
                         similique debitis.
                     </p>
+                    <p className="font-medium">Open for position of :</p>
+                    <div className="flex gap-1 overflow-x-scroll pb-2">
+                        {roles.map((role, id) => {
+                            return (
+                                <div key={id} className="p-1 border-4 border-purple-900 rounded-lg font-medium text-purple-900">
+                                    {role}
+                                </div>
+                            );
+                        })}
+                    </div>
                     <a href="mailto:shivamsub8411@gmail.com" className="btn inline-block">
                         Hire Me
                     </a>

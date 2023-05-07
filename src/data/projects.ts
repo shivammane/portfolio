@@ -1,28 +1,22 @@
+const folder = "./assets/img"
+
 const projects = [
     {
         name: "Real Time Chating",
-        summary: "",
+        img: `${folder}/chatappchat.png`,
         link: "chatapp"
     }, {
         name: "Resume Builder",
-        summary: "",
+        img: `${folder}/resumebuilder.png`,
         link: "resume-builder"
     }, {
         name: "Whats App Web UI",
-        summary: "",
+        img: `${folder}/whatsappweb.png`,
         link: "whatsapp-web"
     }, {
-        name: "Youtube Video Downloader",
-        summary: "",
-        link: "youtube-downloader"
-    }, {
         name: "Simon Game",
-        summary: "",
+        img: `${folder}/simongame.png`,
         link: "simon-game"
-    }, {
-        name: "Stock Price Prediction Website",
-        summary: "",
-        link: "stock-price-prediction"
     }
 ]
 
