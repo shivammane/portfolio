@@ -2,7 +2,7 @@ const folder = "./assets/img"
 
 const projects = [
     {
-        name: "Real Time Chating",
+        name: "Real Time Chat App",
         img: `${folder}/chatappchat.png`,
         link: "chatapp"
     }, {

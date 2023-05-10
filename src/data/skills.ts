@@ -5,6 +5,7 @@ const skills = [
     { skill: "HTML5", src: `${folder}/html.svg` },
     { skill: "CSS3", src: `${folder}/css.svg` },
     { skill: "Tailwind CSS", src: `${folder}/tailwindcss.svg` },
+    { skill: "SASS", src: `${folder}/sass.svg` },
     { skill: "Javascript", src: `${folder}/javascript.svg` },
     { skill: "Typescript", src: `${folder}/typescript.svg` },
     { skill: "MySQL", src: `${folder}/mysql.svg` },
