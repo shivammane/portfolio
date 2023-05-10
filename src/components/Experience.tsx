@@ -11,7 +11,7 @@ function Experience() {
                         <div className="border-l-purple-900 border-l-4 p-2 relative">
                             <div className="absolute h-2 w-2 bg-purple-900 rounded-full -top-1 -left-1.5"></div>
                             <div className="absolute h-2 w-2 bg-purple-900 rounded-full -bottom-1 -left-1.5"></div>
-                            <div className="absolute -top-2 text-slate-600">Jan 22 - Jun 22 : 5 mos</div>
+                            <div className="absolute -top-2 text-slate-600">Jan 22 - Jun 22 : 6 mos</div>
                             <div className="mt-4">
                                 <h5 className="font-medium text-xl">Programmer Analyst Trainee</h5>
                                 <h6 className="text-lg font-medium">
