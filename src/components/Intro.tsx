@@ -13,9 +13,13 @@ function Intro() {
                         <h1 className="text-orange-400">Shivam Mane</h1>
                     </div>
                     <p className="font-medium text-justify">
-                        Lorem, ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto ad laudantium porro eaque neque nemo vitae ipsum
-                        facere nihil molestias a aperiam, at dicta labore architecto iste soluta, ullam vero. nostrum magni, minus velit facere
-                        similique debitis.
+                        A Web Developer who loves to build web apps using various technologies. And also willing to learn new technologies. I
+                        completed B.tech from reputed autonomous college SGGSIE&T, Nanded, Maharashtra in 2022. I love to learn new things. My goal is
+                        to get and enhance the knowledge, to make most out of it for better result with the organization I work for.
+                    </p>
+                    <p className="font-medium text-justify">
+                        Currently I'am open to work for new company. If you think I'm the good fit for the position you are looking for or want to
+                        know more about me please feel free to contact me.
                     </p>
                     <p className="font-medium">Open for position of :</p>
                     <div className="flex gap-1 overflow-x-scroll pb-2">
