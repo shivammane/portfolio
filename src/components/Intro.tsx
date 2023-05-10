@@ -14,11 +14,11 @@ function Intro() {
                     </div>
                     <p className="font-medium text-justify">
                         A Web Developer who loves to build web apps using various technologies. And also willing to learn new technologies. I
-                        completed B.tech from reputed autonomous college SGGSIE&T, Nanded, Maharashtra in 2022. I love to learn new things. My goal is
-                        to get and enhance the knowledge, to make most out of it for better result with the organization I work for.
+                        completed my B.tech from the reputed autonomous college SGGSIE&T, Nanded, Maharashtra in 2022. I love to learn new things. My
+                        goal is to get and enhance the knowledge, to make the most out of it for better results with the organization I work for.
                     </p>
                     <p className="font-medium text-justify">
-                        Currently I'am open to work for new company. If you think I'm the good fit for the position you are looking for or want to
+                        Currently, I am open to working for a new company. If you think I'm a good fit for the position you are looking for or want to
                         know more about me please feel free to contact me.
                     </p>
                     <p className="font-medium">Open for position of :</p>
